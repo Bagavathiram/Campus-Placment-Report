@@ -22,3 +22,5 @@ Higher CGPA students have higher placement probability
 Students with internship experience receive better salary offers
 Communication skills significantly impact placement success
 Certain specializations show higher placement rates
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Screenshot 2026-02-12 143053.png)
